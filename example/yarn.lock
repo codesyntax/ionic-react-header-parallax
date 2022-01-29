@@ -2776,7 +2776,7 @@ babel-extract-comments@^1.0.0:
   dependencies:
     babylon "^6.18.0"
 
-babel-jest@^26.6.0, babel-jest@^26.6.3:
+babel-jest@26.6.3, babel-jest@^26.6.0, babel-jest@^26.6.3:
   version "26.6.3"
   resolved "https://registry.npmjs.org/babel-jest/-/babel-jest-26.6.3.tgz"
   integrity sha512-pl4Q+GAVOHwvjrck6jKjvmGhnO3jHX/xuB9d27f+EJZ/6k+6nMuPjorrYp7s++bKKdANwzElBWnLWaObvTnaZA==
@@ -6034,7 +6034,7 @@ internal-slot@^1.0.3:
     has "^1.0.3"
     side-channel "^1.0.4"
 
-ionic-react-header-parallax@^0.1.8:
+ionic-react-header-parallax@0.1.8:
   version "0.1.8"
   resolved "https://registry.npmjs.org/ionic-react-header-parallax/-/ionic-react-header-parallax-0.1.8.tgz"
   integrity sha512-r1zquUMt1krbA/bkJDUC85NR/F9xu+HYT6iT0zpC2jFcFO/gZtcsxqGiGvhi55dOY+LmQQpHkCISU5a+xj0n5A==
@@ -9361,7 +9361,7 @@ react-router@5.2.0:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-router@^5.2.0:
+react-router@5.2.1:
   version "5.2.1"
   resolved "https://registry.npmjs.org/react-router/-/react-router-5.2.1.tgz"
   integrity sha512-lIboRiOtDLFdg1VTemMwud9vRVuOCZmUIT/7lUoZiSpPODiiH1UQlfXy+vPLC/7IWdFYnhRwAyNqA/+I7wnvKQ==
